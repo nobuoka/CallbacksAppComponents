@@ -6,7 +6,7 @@ objects to receive callback method calls (e.g. `onCreate` method call, `onStart`
 
 ## Usage
 
-First, you define a class which inherits `CallbacksActivity.SimpleCallbacks` class.
+First, you define a class which implements `CallbacksActivity.Callbacks` interface.
 
 ```java
 public class ActivityCallbacksExampleManager extends CallbacksActivity.SimpleCallbacks {
