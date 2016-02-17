@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    package="info.vividcode.android.appcomponents.callbacks.test">
+
+    <application>
+        <activity android:name="info.vividcode.android.appcomponents.callbacks.CallbacksActivity"/>
+    </application>
+
+</manifest>
