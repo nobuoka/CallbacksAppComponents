@@ -15,6 +15,7 @@ public class ActivityCallbacksExampleManager extends CallbacksActivity.SimpleCal
         // Do something.
         // This method is called when Activity's `onCreate` method is called.
     }
+    // You can define other callback methods. (e.g. `onStart` method, `onDestroy` method, etc.)
 }
 ```
 
