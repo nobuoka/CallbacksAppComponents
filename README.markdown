@@ -4,6 +4,12 @@ CallbacksAppComponents
 This library provides application components (currently, Activity and Fragment) which can retain
 objects to receive callback method calls (e.g. `onCreate` method call, `onStart` method call, etc.).
 
+## YOU CAN NOW HANDLE LIFECYCLES WITH LIFECYCLE-AWARE COMPONENTS
+
+You can now handle Lifecycles with Lifecycle-Aware Components instead of this library.
+
+See : [Handling Lifecycles with Lifecycle-Aware Components | Android Developers](https://developer.android.com/topic/libraries/architecture/lifecycle.html)
+
 ## Usage
 
 First, you define a class which implements `CallbacksActivity.Callbacks` interface.
